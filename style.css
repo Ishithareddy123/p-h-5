@@ -65,7 +65,7 @@ img{
     transition: transform.2s;
     border: 10px solid #AAAAAA;
 }
-img{
+img:hover{
     transform: scale(0.9);
 }
 #c a{
